@@ -1,2 +1,3 @@
-def say_hello('Ruby Programmer!')
+def say_hello(name)
+  
 end
